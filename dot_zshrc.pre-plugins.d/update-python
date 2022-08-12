@@ -1,0 +1,2 @@
+#alias python="python3.9"
+export PATH="/usr/local/opt/python@3.9/bin:/usr/local/opt/python@3.9/libexec/bin:$PATH"
